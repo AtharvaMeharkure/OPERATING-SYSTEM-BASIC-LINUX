@@ -1,0 +1,23 @@
+sit@sit-OptiPlex-3280-AIO:~/Atharva$ mkdir exp2
+sit@sit-OptiPlex-3280-AIO:~/Atharva$ cd exp2
+sit@sit-OptiPlex-3280-AIO:~/Atharva/exp2$ vi exp2.c
+sit@sit-OptiPlex-3280-AIO:~/Atharva/exp2$ gcc exp2.c
+sit@sit-OptiPlex-3280-AIO:~/Atharva/exp2$ ./a.out
+Enter a year: 2024
+2024 is a leap year.
+sit@sit-OptiPlex-3280-AIO:~/Atharva/exp2$ vi exp21.c
+sit@sit-OptiPlex-3280-AIO:~/Atharva/exp2$ gcc exp21.c
+sit@sit-OptiPlex-3280-AIO:~/Atharva/exp2$ ./a.out
+Enter a year: 1054
+1054 is a leap year.
+sit@sit-OptiPlex-3280-AIO:~/Atharva/exp2$ vi exp22.c
+sit@sit-OptiPlex-3280-AIO:~/Atharva/exp2$ gcc exp22.c
+sit@sit-OptiPlex-3280-AIO:~/Atharva/exp2$ ./a.out
+Enter a positive number: -69
+Enter a positive number: 3231   
+You entered: 3231
+sit@sit-OptiPlex-3280-AIO:~/Atharva/exp2$ vi exp22.c
+sit@sit-OptiPlex-3280-AIO:~/Atharva/exp2$ gcc exp22.c
+sit@sit-OptiPlex-3280-AIO:~/Atharva/exp2$ ./a.out
+Enter a number (0 to stop): 22
+//FOR CREATING OF DIRECTORY AND USING VI EDITOR TO PERFORM BASIC CODES AS LEAP YEAR WITH IF ELSE AND SWITCH CASE ,DO WHILE BASIC CODE.
